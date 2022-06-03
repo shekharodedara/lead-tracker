@@ -1,0 +1,35 @@
+html, body {
+    /* margin: 5px; */
+    padding: 0;
+    /* text-align: center; */
+    min-width: 400px;
+}
+button {
+    background: green;
+    color: white;
+    margin-top: 4px;
+    padding: 10px 15px;
+    border: none;
+    font-weight: bold;
+}#dlt{
+    color: green;
+    background: white;
+    border: 1px solid green;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+}
+ul{
+ margin-top: 20px;
+ list-style: none;
+ padding-left: 3px;   
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color: green;
+}
